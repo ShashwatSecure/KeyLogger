@@ -28,6 +28,7 @@ The goal of this project is to understand how web applications can interact with
 ## Setup and Installation
 
 git clone https://github.com/ShashwatSecure/KeyLogger.git
+
 cd KeyLogger
 
 python -m venv venv
